@@ -1,4 +1,7 @@
 # Banana Shop
+
+[![Join the chat at https://gitter.im/banannaCoin/community](https://badges.gitter.im/banannaCoin/community.svg)](https://gitter.im/banannaCoin/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Overview
 Banana Shop is an online marketplace where one can go to purchase bananas and banana related apparel. The market place is a Dapp where one can use ethereum to pay for their items. The application is currently in the stage where it can only be run locally. All items are free and one must only pay for gas. 
 
